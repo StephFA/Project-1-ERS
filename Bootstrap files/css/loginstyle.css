@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url('../img/pigbank.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 200px;
+}
+
+.btn btn-success {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}
